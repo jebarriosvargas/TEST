@@ -3,6 +3,7 @@
 - part: PLOTLY
   chapters:
   - file: docs/A_ConosPlotly
+  - file: docs/B_AnimationPlotly
 #
 #- file: docs/B_BandStructureSLG
   #title: Estructura de bandas
