@@ -1,6 +1,8 @@
 # - file: README
 - file: docs/index
-- file: docs/A_ConosPlotly
+- part: PLOTLY
+  chapters:
+  - file: docs/A_ConosPlotly
 #
 #- file: docs/B_BandStructureSLG
   #title: Estructura de bandas
