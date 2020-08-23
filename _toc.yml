@@ -1,8 +1,6 @@
 # - file: README
 - file: docs/index
-#- header: Monocapa de grafeno
-#- file: docs/A_SLGGeom
-  #title: Geometría
+- file: docs/A_ConosPlotly
 #
 #- file: docs/B_BandStructureSLG
   #title: Estructura de bandas
